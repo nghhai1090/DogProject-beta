@@ -1,2 +1,2 @@
 # Dogg
- Dog Project Version 21.12, with alarm function
+ Dog Project Version 22.12, with alarm function
